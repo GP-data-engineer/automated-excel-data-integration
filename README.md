@@ -29,6 +29,10 @@ The workflow of the script is straightforward and tailored to engineering Excel 
 5. The retrieved data is then written back into the corresponding row of **Config.xlsx**, filling in missing values automatically.  
 This process turns a manual, repetitive data lookup into an automated ETL-like pipeline optimized for engineering use cases.
 
+## Real-World Application
+This script was successfully applied at **Alstom** to process a large dataset of **BOM (Bill of Materials)** related to a **train project** in the **transportation industry**.  
+The automation significantly reduced manual effort in cross-referencing configuration spreadsheets, ensuring consistency and speeding up engineering workflows.
+
 ## Requirements
 - Python 3.10+
 - pandas
