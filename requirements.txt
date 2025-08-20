@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+openpyxl
+psycopg2-binary
+boto3
+pyspark
+pytest

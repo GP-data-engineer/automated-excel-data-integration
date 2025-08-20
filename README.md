@@ -41,3 +41,13 @@ The automation significantly reduced manual effort in cross-referencing configur
 Install dependencies:
 ```bash
 pip install pandas openpyxl
+
+---
+## Data Engineer Edition
+
+This project demonstrates an end-to-end Data Engineering pipeline:
+- Extract Excel files
+- Transform into clean DataFrames
+- Load into PostgreSQL / AWS S3
+- Dockerized pipeline
+- Infrastructure as Code (Terraform)
