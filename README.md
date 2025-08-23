@@ -51,3 +51,7 @@ This project demonstrates an end-to-end Data Engineering pipeline:
 - Load into PostgreSQL / AWS S3
 - Dockerized pipeline
 - Infrastructure as Code (Terraform)
+
+
+## Created the first branch
+- git checkout -b feature/update-readme
